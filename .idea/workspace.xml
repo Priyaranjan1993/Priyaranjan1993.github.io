@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f2f0721-ea3a-40bb-9c8a-37dffbc4ac2d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/icon-fonts/Flaticon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icon-fonts/flaticon.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/flaticon.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/flaticon.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icon-fonts/Flaticon.eot" beforeDir="false" afterPath="$PROJECT_DIR$/icon-fonts/Flaticon.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icon-fonts/Flaticon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/icon-fonts/Flaticon.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/icon-fonts/Flaticon.woff" beforeDir="false" afterPath="$PROJECT_DIR$/icon-fonts/Flaticon.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -43,8 +35,8 @@
       <file leaf-file-name="flaticon.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/flaticon.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+            <state relative-caret-position="428">
+              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -214,12 +206,12 @@
       <option name="presentableId" value="Default" />
       <updated>1534668918360</updated>
       <workItem from="1534668921011" duration="1376000" />
-      <workItem from="1534674697984" duration="22916000" />
+      <workItem from="1534674697984" duration="23037000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24292000" />
+    <option name="totallyTimeSpent" value="24413000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -359,8 +351,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/flaticon.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        <state relative-caret-position="428">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
         </state>
       </provider>
     </entry>
