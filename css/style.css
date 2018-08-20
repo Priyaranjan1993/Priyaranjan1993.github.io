@@ -1800,3 +1800,12 @@ ol {
         opacity: 0
     }
 }
+
+#profile-btns{
+    margin: 40px 120px 0 0;
+}
+
+#custom-btn-div{
+    padding: 0;
+    text-align: left !important;
+}
