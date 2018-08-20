@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f2f0721-ea3a-40bb-9c8a-37dffbc4ac2d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/img/portfolio/bank.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/courier.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/doctor.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/faculty.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/info.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/student.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/magnific-popup.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/magnific-popup.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,11 +18,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="524">
-              <caret line="310" column="58" selection-start-line="310" selection-start-column="58" selection-end-line="310" selection-end-column="58" />
+            <state relative-caret-position="1262">
+              <caret line="330" column="7" selection-start-line="330" selection-start-column="7" selection-end-line="330" selection-end-column="7" />
+              <folding>
+                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#6;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="magnific-popup.min.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/magnific-popup.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -35,10 +50,9 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="175" column="19" selection-start-line="175" selection-start-column="19" selection-end-line="175" selection-end-column="19" />
+            <state relative-caret-position="72">
+              <caret line="4" column="2" selection-start-line="4" selection-end-line="11" selection-end-column="5" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -62,8 +76,9 @@
       <find>progress</find>
       <find>progress2</find>
       <find>id=&quot;progress3&quot;</find>
-      <find>circleProgress</find>
       <find>profile.</find>
+      <find>circleProgress</find>
+      <find>figure</find>
     </findStrings>
     <replaceStrings>
       <replace>class=&quot;progressAll&quot;</replace>
@@ -75,9 +90,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/magnific-popup.min.js" />
       </list>
     </option>
   </component>
@@ -119,12 +135,6 @@
               <item name="Priyaranjan1993.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
               <item name="icon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Priyaranjan1993.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Priyaranjan1993.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Priyaranjan1993.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -176,12 +186,12 @@
       <option name="presentableId" value="Default" />
       <updated>1534668918360</updated>
       <workItem from="1534668921011" duration="1376000" />
-      <workItem from="1534674697984" duration="13509000" />
+      <workItem from="1534674697984" duration="15168000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14885000" />
+    <option name="totallyTimeSpent" value="16544000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -217,6 +227,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1476">
           <caret line="82" column="69" selection-start-line="82" selection-start-column="69" selection-end-line="82" selection-end-column="69" />
+          <folding>
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#6;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -234,18 +252,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/magnific-popup.css">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="175" column="19" selection-start-line="175" selection-start-column="19" selection-end-line="175" selection-end-column="19" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/icon/1.png">
       <provider selected="true" editor-type-id="images" />
@@ -281,10 +287,39 @@
     <entry file="file://$PROJECT_DIR$/img/portfolio/info.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="2" selection-start-line="4" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="310" column="58" selection-start-line="310" selection-start-column="58" selection-end-line="310" selection-end-column="58" />
+        <state relative-caret-position="1262">
+          <caret line="330" column="7" selection-start-line="330" selection-start-column="7" selection-end-line="330" selection-end-column="7" />
+          <folding>
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#6;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/magnific-popup.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
