@@ -1801,11 +1801,16 @@ ol {
     }
 }
 
-#profile-btns{
+#profile-btns {
     margin: 40px 120px 0 0;
 }
 
-#custom-btn-div{
+#custom-btn-div {
     padding: 0;
     text-align: left !important;
+}
+
+#hire {
+    color: #fff !important;
+    background-color: #009fff !important;
 }

@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f2f0721-ea3a-40bb-9c8a-37dffbc4ac2d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/icon-fonts/Flaticon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon-fonts/flaticon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/flaticon.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/flaticon.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon-fonts/Flaticon.eot" beforeDir="false" afterPath="$PROJECT_DIR$/icon-fonts/Flaticon.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon-fonts/Flaticon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/icon-fonts/Flaticon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon-fonts/Flaticon.woff" beforeDir="false" afterPath="$PROJECT_DIR$/icon-fonts/Flaticon.woff" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,15 +27,33 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="79" column="102" selection-start-line="79" selection-start-column="102" selection-end-line="79" selection-end-column="102" />
+            <state relative-caret-position="542">
+              <caret line="653" column="34" selection-start-line="653" selection-start-column="34" selection-end-line="653" selection-end-column="34" />
               <folding>
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#section#6;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#28637#29744#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="flaticon.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/flaticon.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_flaticon.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/icon-fonts/_flaticon.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -36,8 +61,8 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="84" column="32" selection-start-line="84" selection-start-column="32" selection-end-line="84" selection-end-column="32" />
+            <state relative-caret-position="326">
+              <caret line="161" column="22" selection-start-line="161" selection-start-column="16" selection-end-line="161" selection-end-column="22" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
@@ -47,11 +72,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="596">
-              <caret line="1809" column="32" selection-start-line="1809" selection-start-column="32" selection-end-line="1809" selection-end-column="32" />
+            <state relative-caret-position="578">
+              <caret line="1813" column="27" selection-start-line="1813" selection-start-column="27" selection-end-line="1813" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -82,8 +107,9 @@
       <list>
         <option value="$PROJECT_DIR$/js/magnific-popup.min.js" />
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/flaticon.css" />
       </list>
     </option>
   </component>
@@ -114,6 +140,16 @@
             <path>
               <item name="Priyaranjan1993.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="Priyaranjan1993.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Priyaranjan1993.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Priyaranjan1993.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Priyaranjan1993.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Priyaranjan1993.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="icon-fonts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Priyaranjan1993.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -149,6 +185,8 @@
       <recent name="C:\Users\priya\Desktop\Portfolio\Priyaranjan1993.github.io\img\icon" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\priya\Desktop\Portfolio\Priyaranjan1993.github.io\icon-fonts" />
+      <recent name="C:\Users\priya\Desktop\Portfolio\Priyaranjan1993.github.io\css" />
       <recent name="C:\Users\priya\Desktop\Portfolio\Priyaranjan1993.github.io\img\portfolio" />
       <recent name="C:\Users\priya\Desktop\Portfolio\Priyaranjan1993.github.io\img" />
     </key>
@@ -176,12 +214,12 @@
       <option name="presentableId" value="Default" />
       <updated>1534668918360</updated>
       <workItem from="1534668921011" duration="1376000" />
-      <workItem from="1534674697984" duration="18666000" />
+      <workItem from="1534674697984" duration="22916000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20042000" />
+    <option name="totallyTimeSpent" value="24292000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -222,7 +260,7 @@
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#6;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#28637#29744#0" />
           </folding>
         </state>
       </provider>
@@ -281,8 +319,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="84" column="32" selection-start-line="84" selection-start-column="32" selection-end-line="84" selection-end-column="32" />
+        <state relative-caret-position="326">
+          <caret line="161" column="22" selection-start-line="161" selection-start-column="16" selection-end-line="161" selection-end-column="22" />
           <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
@@ -291,24 +329,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="1813" column="27" selection-start-line="1813" selection-start-column="27" selection-end-line="1813" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icon-fonts/_flaticon.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="79" column="102" selection-start-line="79" selection-start-column="102" selection-end-line="79" selection-end-column="102" />
+        <state relative-caret-position="542">
+          <caret line="653" column="34" selection-start-line="653" selection-start-column="34" selection-end-line="653" selection-end-column="34" />
           <folding>
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#6;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#28637#29744#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/css/flaticon.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="596">
-          <caret line="1809" column="32" selection-start-line="1809" selection-start-column="32" selection-end-line="1809" selection-end-column="32" />
+        <state relative-caret-position="392">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
         </state>
       </provider>
     </entry>
