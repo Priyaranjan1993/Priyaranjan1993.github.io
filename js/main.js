@@ -207,6 +207,33 @@ if($().circleProgress){
         fill: "#009fff",
         emptyFill: "rgba(0, 0, 0, 0)"
     });
+
+    //Set progress circle skyblue
+    $("#progress12").circleProgress({
+        value: 0.55,
+        size: 175,
+        thickness: 2,
+        fill: "#009fff",
+        emptyFill: "rgba(0, 0, 0, 0)"
+    });
+
+    //Set progress circle skyblue
+    $("#progress13").circleProgress({
+        value: 0.55,
+        size: 175,
+        thickness: 2,
+        fill: "#009fff",
+        emptyFill: "rgba(0, 0, 0, 0)"
+    });
+
+    //Set progress circle skyblue
+    $("#progress14").circleProgress({
+        value: 0.75,
+        size: 175,
+        thickness: 2,
+        fill: "#009fff",
+        emptyFill: "rgba(0, 0, 0, 0)"
+    });
 }
 
 })(jQuery);
