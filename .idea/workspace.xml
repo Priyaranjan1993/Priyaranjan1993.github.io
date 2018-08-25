@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f2f0721-ea3a-40bb-9c8a-37dffbc4ac2d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/img/portfolio/shop.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="722">
-              <caret line="581" column="57" selection-start-line="581" selection-start-column="57" selection-end-line="581" selection-end-column="57" />
+            <state relative-caret-position="398">
+              <caret line="339" column="99" selection-start-line="339" selection-start-column="99" selection-end-line="339" selection-end-column="99" />
               <folding>
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
@@ -51,7 +52,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="524">
@@ -101,8 +102,8 @@
         <option value="$PROJECT_DIR$/js/magnific-popup.min.js" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/css/flaticon.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -158,6 +159,12 @@
             <path>
               <item name="Priyaranjan1993.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="Priyaranjan1993.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Priyaranjan1993.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Priyaranjan1993.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -178,9 +185,9 @@
       <recent name="C:\Users\priya\Desktop\Portfolio\Priyaranjan1993.github.io\img\icon" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\priya\Desktop\Portfolio\Priyaranjan1993.github.io\img\portfolio" />
       <recent name="C:\Users\priya\Desktop\Portfolio\Priyaranjan1993.github.io\icon-fonts" />
       <recent name="C:\Users\priya\Desktop\Portfolio\Priyaranjan1993.github.io\css" />
-      <recent name="C:\Users\priya\Desktop\Portfolio\Priyaranjan1993.github.io\img\portfolio" />
       <recent name="C:\Users\priya\Desktop\Portfolio\Priyaranjan1993.github.io\img" />
     </key>
   </component>
@@ -207,12 +214,12 @@
       <option name="presentableId" value="Default" />
       <updated>1534668918360</updated>
       <workItem from="1534668921011" duration="1376000" />
-      <workItem from="1534674697984" duration="24060000" />
+      <workItem from="1534674697984" duration="25068000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25436000" />
+    <option name="totallyTimeSpent" value="26444000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -331,20 +338,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="581" column="57" selection-start-line="581" selection-start-column="57" selection-end-line="581" selection-end-column="57" />
-          <folding>
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#28637#29744#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="524">
@@ -353,6 +346,20 @@
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
             <element signature="e#1#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="339" column="99" selection-start-line="339" selection-start-column="99" selection-end-line="339" selection-end-column="99" />
+          <folding>
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#28637#29744#0" />
           </folding>
         </state>
       </provider>
